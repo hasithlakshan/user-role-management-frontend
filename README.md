@@ -18,3 +18,4 @@ Before Test please make sure check the backend project was running
 ##    • Normal user can't do anything he can only see the user list
     • Mainly shows name email and the role.
     • User can search specific user using user email. 
+    • Finally user can log out from the app
